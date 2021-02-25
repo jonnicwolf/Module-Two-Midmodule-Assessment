@@ -59,7 +59,9 @@
                     break;
             }
             arr.push(roll)
-          //if (){
+            let nodeTest = Node.isNode(outputHistory)
+            if (nodeTest) {
+                
           //       
           //}
         }
